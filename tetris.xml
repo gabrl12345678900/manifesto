@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="gabrl12345678900/android_device_nothing_tetris" path="device/nothing/tetris" remote="github" revision="lineage-22.2"/>
+
+  <project name="SuperAviation001/android_device_nothing_tetris-kernel" path="device/nothing/tetris-kernel" remote="github" revision="lineage-22.2"/>
+  <project name="NothingOSS/android_kernel_6.1_nothing_mt6878" path="kernel/nothing/tetris" remote="github" revision="mt6878/Tetris/u"/>
+  <project name="SuperAviation001/android_device_nothing_tetris-sepolicy" path="device/nothing/tetris-sepolicy" remote="github" revision="lineage-22.2"/>
+
+</manifest>
