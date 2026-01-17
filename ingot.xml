@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="Tomoms/android_device_osom_ingot" path="device/osom/ingot" remote="github" revision="16.1"/>
+
+  <project name="Tomoms/android_kernel_osom_sm8475-modules" path="kernel/osom/sm8475-modules" remote="github" revision="16.1"/>
+  <project name="Tomoms/android_kernel_osom_sm8475" path="kernel/osom/ingot" remote="github" revision="16.1"/>
+  <project name="Tomoms/android_kernel_osom_sm8475-devicetrees" path="kernel/osom/sm8475-devicetrees" remote="github" revision="16.1"/>
+  
+  <project name="Tomoms/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" remote="github" revision="16.1"/>
+
+</manifest>
