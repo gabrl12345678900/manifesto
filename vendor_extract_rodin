@@ -1,0 +1,1 @@
+./ex*.py ~/dumper/rodin && ./ex*.py -k -n -s "Dolby - from tanzanite OS2.0.207.0.VOGEUXM" ~/dumper/tanzanite && ./ex*.py -k -n -s "Sensor (Proximity) - from rothko OS2.0.16.0.VNNEUXM" ~/dumper/rothko
