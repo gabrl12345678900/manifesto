@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="mt6899-rodin/android_device_xiaomi_rodin-kernel" path="device/xiaomi/rodin-kernel" remote="github" revision="lineage-22.2"/>
+
+  <project name="mt6899-rodin/android_device_xiaomi_rodin" path="device/xiaomi/rodin" remote="github" revision="lineage-23.1"/>
+  <project name="mt6899-rodin/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="lineage-23.1"/>
+  <project name="mt6899-rodin/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-23.0"/>
+  
+  <project name="mt6899-rodin/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-23.0"/>
+  <project name="mt6899-rodin/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github" revision="lineage-23.2"/>
+
+</manifest>
